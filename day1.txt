@@ -1,4 +1,5 @@
-Today I started learning Git and it feels powerful.
+
+Today I started learning Git seriously and it feels powerful.
 
 
 This line is from feature branch.
