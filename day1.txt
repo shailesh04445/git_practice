@@ -1,3 +1,4 @@
-Today I started learning git.
+Today I started learning Git and it feels powerful.
+
 
 This line is from feature branch.
