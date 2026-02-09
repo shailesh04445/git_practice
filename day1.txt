@@ -3,3 +3,7 @@ Today I started learning Git seriously and it feels powerful.
 
 
 This line is from feature branch.
+
+This is incomplete work...
+abcdefg
+testing stash
